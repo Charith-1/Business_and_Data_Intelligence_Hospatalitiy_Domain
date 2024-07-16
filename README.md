@@ -2,6 +2,10 @@
 
 ![Power BI Dashboard](https://github.com/Charith-1/Business_and_Data_Intelligence_Hospatalitiy_Domain/blob/main/Datasets/Screenshot%202024-07-05%20115855.png)
 
+
+## Power BI File
+You can view the Power BI dashboard online [here](https://app.powerbi.com/view?r=eyJrIjoiYTZlOGMwMzYtNDk2ZC00OThhLTk4N2ItMmI3MzhmYjFjZDJjIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D).
+
 ## Project Overview
 
 **Duration:** April 2024 - May 2024  
